@@ -1,0 +1,27 @@
+# Environment
+.env
+.env.local
+opencode-models.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.venv/
+dist/
+build/
+
+# Harness2 runtime outputs
+runs/
+dependencies/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
