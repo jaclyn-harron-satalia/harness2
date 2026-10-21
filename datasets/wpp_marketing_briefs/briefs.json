@@ -1,0 +1,526 @@
+[
+  {
+    "task_id": "brief_01_fmcg",
+    "domain": "FMCG",
+    "scenario_type": "New Product Launch",
+    "input_brief": {
+      "client_name": "Northwind Foods Ltd.",
+      "brand": "Harvest & Oats",
+      "business_objective": "Launch a new line of high-protein overnight oats (4 SKUs: Apple Cinnamon, Cocoa Hazelnut, Berry Vanilla, Golden Turmeric) into the UK chilled breakfast aisle. Target 3.5% volume share of the £480M chilled breakfast category within 18 months, achieving 12% household penetration among the target segment by end of Year 1. Secure listings in Tesco, Sainsbury's, and Ocado.",
+      "target_audience_summary": "Primary: time-pressed working professionals aged 28-42, skewing female (60/40), household income £45k+, living in urban/suburban areas. They currently skip breakfast or grab something unhealthy 3+ days/week and feel guilty about it. Secondary: fitness-engaged consumers tracking macros.",
+      "budget_and_channels": "Total working media £4.2M over 12 months. Open to channel recommendations but retail media (Nectar360, Tesco Media & Insight) is non-negotiable and must be included. Sampling budget of £350k available separately.",
+      "key_constraints_and_preferences": "MUST cite category penetration and frequency data to justify strategy (client's CMO is ex-Kantar and is data-obsessed). Avoid 'healthwashing' claims that risk ASA scrutiny. No influencer-led strategy as the hero channel — client had a prior bad experience. Deliverable must lead with a one-paragraph executive summary."
+    },
+    "gold_standard_strategy": {
+      "executive_summary": "Chilled breakfast is a penetration game, not a loyalty game — growth will come from recruiting lapsed and non-breakfast-eaters, not stealing share from existing oat loyalists. Harvest & Oats should position against the 'guilt of skipping' rather than against competitor oats, using physical and mental availability to make the brand the default 'grab-and-go redemption' choice. We recommend a penetration-first media model anchored in high-reach broadcast and retail media, with sampling deployed at the point of maximum behavioral friction (commuter and workplace contexts) to convert trial.",
+      "target_persona_and_insight": "'The Redemption Seeker' — a 34-year-old professional who leaves the house in a rush, knows they should eat better, and experiences a low-grade daily guilt about breakfast. The insight: the barrier isn't desire for health, it's the 7am trade-off between time and virtue. Harvest & Oats removes the trade-off ('virtue without the effort'). The job-to-be-done is emotional relief from guilt, not nutritional optimization.",
+      "channel_mix_rationale": [
+        {"channel": "Video on Demand (BVOD/CTV)", "role": "Lead reach driver for mental availability; builds the brand idea efficiently against light TV viewers in the target age band", "budget_allocation_pct": "32%"},
+        {"channel": "Retail Media (Nectar360 + Tesco Media & Insight)", "role": "Closes the loop at the digital shelf; drives trial and defends the listing with share-of-search and sponsored product placement", "budget_allocation_pct": "28%"},
+        {"channel": "Out-of-Home (commuter/roadside, digital)", "role": "Physical availability and priming in the exact 'rushed morning' moment; reinforces the guilt-redemption message contextually", "budget_allocation_pct": "22%"},
+        {"channel": "Audio (streaming + commercial radio breakfast dayparts)", "role": "Reaches the target during the live morning routine; cost-efficient frequency top-up", "budget_allocation_pct": "12%"},
+        {"channel": "Paid Social (Meta/Pinterest, supporting only)", "role": "Lower-funnel retargeting and recipe/occasion content; deliberately not the hero per client preference", "budget_allocation_pct": "6%"}
+      ],
+      "messaging_hierarchy": {
+        "core_idea": "Breakfast you don't have to feel bad about.",
+        "primary_pillar": "Effortless virtue — real oats and protein, ready when you grab it, no compromise on the morning rush.",
+        "secondary_pillars": ["Genuinely tasty (taste parity is the trial barrier to overcome)", "High-protein for sustained energy (claims kept ASA-safe and substantiated)", "Flavor range for routine variety to drive repeat frequency"]
+      },
+      "category_data_citations": [
+        "Chilled breakfast category value: ~£480M (per brief); category growth driven primarily by new buyer penetration rather than frequency increases (Kantar FMCG panel logic)",
+        "Byron Sharp / Ehrenberg-Bass penetration principle: brand growth correlates with reach of light/non-buyers, not loyalty of heavy buyers",
+        "Breakfast-skipping behavior among UK working adults (~ cite the brief's stated 3+ days/week skip rate) as the core addressable recruitment pool",
+        "Household penetration vs. purchase frequency decomposition to set the 12% Y1 penetration KPI as the leading indicator"
+      ]
+    },
+    "evaluation_criteria": {
+      "key_success_factors": [
+        "Explicitly frames growth as a penetration/reach problem and cites penetration-vs-frequency data",
+        "Leads with a concise one-paragraph executive summary",
+        "Includes retail media as a funded channel",
+        "Positions against the emotional barrier (guilt/time trade-off), not against competitor products",
+        "Keeps health messaging ASA-compliant and avoids unsubstantiated claims"
+      ],
+      "disqualifiers_or_penalties": [
+        "Makes influencers the hero channel",
+        "Omits retail media",
+        "Frames strategy around loyalty/retention of existing oat buyers",
+        "Uses vague or unsubstantiated health claims",
+        "Fails to cite any category/penetration data"
+      ]
+    }
+  },
+  {
+    "task_id": "brief_02_automotive",
+    "domain": "Automotive / Mobility",
+    "scenario_type": "Brand Repositioning",
+    "input_brief": {
+      "client_name": "Meridian Motors Europe",
+      "brand": "Meridian Volt (EV sub-brand)",
+      "business_objective": "Reposition Meridian from a 'legacy, slightly boring' mass-market combustion brand into a credible EV challenger ahead of the 2035 ICE phase-out. Shift brand perception: increase 'EV brand I would consider' consideration score from 11% to 25% among in-market intenders within 24 months. Support the flagship Volt SUV launch. Grow test-drive bookings by 40% YoY.",
+      "target_audience_summary": "'Pragmatic EV Switchers' — affluent households aged 38-55 with driveway charging access, currently on their second combustion car, anxious about range, charging infrastructure, and residual values. They are not early-adopter tech enthusiasts; they want reassurance, not revolution. Secondary: fleet/business lease decision-makers.",
+      "budget_and_channels": "€18M pan-European (DE, FR, UK, NL, NO lead markets) over 24 months. Includes brand and performance. Dealer co-op funding available for local activation.",
+      "key_constraints_and_preferences": "Must NOT position as a Tesla imitator or lean on 'acceleration/performance' tropes — research shows this alienates the pragmatic target. Must address range/charging anxiety head-on. Client is sensitive to greenwashing regulation (EU Green Claims Directive). Needs a clear brand-vs-performance budget split and a reputation-risk note."
+    },
+    "gold_standard_strategy": {
+      "executive_summary": "Meridian's legacy is a liability in perception but an asset in trust — the pragmatic switcher doesn't want the most exciting EV, they want the safest bet. We reposition Meridian Volt around 'dependable electric,' reframing the brand's heritage as the reason to trust it with the biggest unknown of their motoring life. Rather than out-teching Tesla, we out-reassure it: every message dismantles a specific switching anxiety (range, charging, residuals) with proof, not promise. Budget skews to brand-building early (reputation reset) then rebalances to performance as consideration builds.",
+      "target_persona_and_insight": "'The Reluctant Switcher' — a 47-year-old who knows the EV future is coming and is quietly nervous about getting it wrong. Insight: for this buyer, the emotional risk isn't missing out on innovation — it's being the person who bought the wrong car and is stranded, out of pocket, or stuck. They are buying certainty. Meridian's 60-year reliability reputation is the single most persuasive EV asset it has.",
+      "channel_mix_rationale": [
+        {"channel": "Brand Film / Online Video & CTV", "role": "Reputation reset; dramatizes 'dependable electric' and reframes heritage as trust", "budget_allocation_pct": "30%"},
+        {"channel": "Search + Comparison/Review platforms (Carwow, mobile.de, etc.)", "role": "Intercepts active in-market research where anxieties are resolved; critical for consideration conversion", "budget_allocation_pct": "22%"},
+        {"channel": "Experiential / Test-Drive & Charging Demo Activation", "role": "Direct anxiety-busting proof; test drive is the primary consideration-to-conversion lever (40% booking KPI)", "budget_allocation_pct": "18%"},
+        {"channel": "Dealer Co-op / Local Performance Media", "role": "Converts intent into bookings in local markets; funds geo-targeted offers", "budget_allocation_pct": "15%"},
+        {"channel": "PR, Earned & Third-Party Validation (residual value reports, range tests)", "role": "Independent proof is more persuasive than paid claims for a skeptical, risk-averse audience; also mitigates greenwashing risk", "budget_allocation_pct": "10%"},
+        {"channel": "B2B / Fleet LinkedIn & Trade", "role": "Addresses secondary fleet decision-maker audience with TCO argument", "budget_allocation_pct": "5%"}
+      ],
+      "messaging_hierarchy": {
+        "core_idea": "The electric car you don't have to worry about.",
+        "primary_pillar": "Dependable electric — 60 years of reliability, now electric; the safe way to switch.",
+        "secondary_pillars": ["Range you can count on (real-world, independently verified range figures)", "Charging made simple (home + network partnership, transparent)", "Protected residuals & total-cost transparency (de-risks the financial anxiety)"]
+      },
+      "category_data_citations": [
+        "Consideration score baseline 11% → 25% target (per brief) as the primary brand KPI",
+        "EV switching barriers for mainstream (non-early-adopter) buyers: range anxiety, charging access, and residual value uncertainty consistently rank as top-three purchase blockers in EV intender studies",
+        "Crossing-the-chasm logic: pragmatic majority require social proof and risk-reduction, not novelty, unlike early adopters",
+        "2035 EU ICE phase-out timeline as the category forcing function driving in-market intent"
+      ]
+    },
+    "evaluation_criteria": {
+      "key_success_factors": [
+        "Reframes legacy/heritage as a trust asset rather than hiding it",
+        "Directly addresses range, charging, and residual anxieties with proof-led messaging",
+        "Provides an explicit brand-vs-performance budget split with a phasing logic",
+        "Includes a greenwashing/EU Green Claims Directive reputation-risk note",
+        "Avoids performance/acceleration positioning"
+      ],
+      "disqualifiers_or_penalties": [
+        "Positions as a Tesla imitator or leans on 0-60 performance tropes",
+        "Ignores charging/range anxiety",
+        "Makes unsubstantiated sustainability claims",
+        "Fails to separate brand and performance budget",
+        "Targets early-adopter tech enthusiasts instead of the pragmatic switcher"
+      ]
+    }
+  },
+  {
+    "task_id": "brief_03_b2b_saas",
+    "domain": "B2B SaaS / Tech",
+    "scenario_type": "Category Creation / Market Expansion",
+    "input_brief": {
+      "client_name": "Lattice Systems Inc.",
+      "brand": "Cohere Ops (AIOps platform)",
+      "business_objective": "Move upmarket from mid-market into the enterprise segment (companies 5,000+ employees) and establish 'Autonomous Incident Response' as a defensible category. Generate $14M in net-new enterprise pipeline in 12 months, with a target of 40 enterprise opportunities (ACV > $250k) and reduce sales cycle from 9 months to 6. Position as a leader ahead of a Gartner Magic Quadrant evaluation.",
+      "target_audience_summary": "Economic buyer: VP/SVP of Infrastructure & Reliability and the CISO (joint buying center). Technical champion: SRE and Platform Engineering leads. The buying committee averages 7-9 stakeholders. Pain: alert fatigue, MTTR pressure, and tool sprawl. They are deeply skeptical of 'AI-washing.'",
+      "budget_and_channels": "$3.8M annual marketing budget. ABM-led. Must support a 40-account named target list. Analyst relations (Gartner/Forrester) budget is ring-fenced separately.",
+      "key_constraints_and_preferences": "Client prefers CONCISE EXECUTIVE BULLET POINTS over prose (CMO reads on mobile). Must demonstrate understanding of multi-stakeholder enterprise buying committees. No 'spray-and-pray' demand gen. Must articulate how to differentiate from incumbents (PagerDuty, Datadog, ServiceNow) without naming them disparagingly. Quantify pipeline math."
+    },
+    "gold_standard_strategy": {
+      "executive_summary": "• Enterprise is a committee sale, not a lead-gen funnel — win the buying center, not the MQL. • Category creation + credibility must run in parallel: define 'Autonomous Incident Response' AND earn analyst validation simultaneously. • Differentiate on outcome (MTTR reduction + reduced on-call toil) and anti-AI-washing proof, not feature lists. • Concentrate spend on 40 named accounts via orchestrated ABM, not broad demand gen. • Pipeline math: 40 accounts × ~35% opportunity creation = ~14 opps minimum from tier-1, scaled across tiers to hit 40 opps and $14M.",
+      "target_persona_and_insight": "Dual economic buyer (VP Infra/Reliability + CISO) with an SRE technical champion. Insight: the champion is personally exhausted by alert fatigue and on-call burnout, but the economic buyer is accountable for risk and MTTR to the board. The deal stalls when the champion is sold but can't build the internal business case. The job of marketing is to arm the champion to sell internally — the real competitor is the status quo and the skeptic in the committee, not another vendor.",
+      "channel_mix_rationale": [
+        {"channel": "Orchestrated ABM (6sense/Demandbase + personalized microsites)", "role": "Core engine; coordinates multi-threaded outreach across the 7-9 person buying committee per named account", "budget_allocation_pct": "35%"},
+        {"channel": "Analyst Relations & Category Content (whitepapers, category definition)", "role": "Establishes 'Autonomous Incident Response' and builds MQ-readiness credibility", "budget_allocation_pct": "20%"},
+        {"channel": "Executive / Field Events & Private Roundtables", "role": "High-trust environment for economic buyers; accelerates stalled deals and shortens cycle", "budget_allocation_pct": "18%"},
+        {"channel": "Champion Enablement Content (ROI calculators, internal business-case kits)", "role": "Arms the technical champion to sell upward; directly attacks the sales-cycle-stall problem", "budget_allocation_pct": "15%"},
+        {"channel": "LinkedIn Thought Leadership + Targeted Paid", "role": "Builds category narrative and air cover against named accounts", "budget_allocation_pct": "12%"}
+      ],
+      "messaging_hierarchy": {
+        "core_idea": "Incidents that resolve themselves — before they reach your people.",
+        "primary_pillar": "Autonomous Incident Response: a new category that moves teams from reactive firefighting to self-healing operations.",
+        "secondary_pillars": ["Proven MTTR reduction with transparent, explainable AI (anti-AI-washing proof)", "End the on-call burnout spiral (champion/SRE emotional pillar)", "Enterprise-grade governance & security the CISO can sign off on"]
+      },
+      "category_data_citations": [
+        "Enterprise buying committee size of 7-9 stakeholders (per brief; consistent with Gartner B2B buying research ~6-10 stakeholders)",
+        "$14M pipeline / 40 opps at >$250k ACV target with a stated pipeline model and conversion assumptions",
+        "Sales cycle compression target 9→6 months as the enablement-content success metric",
+        "Buyer skepticism toward 'AI-washing' as the core trust barrier in AIOps evaluation"
+      ]
+    },
+    "evaluation_criteria": {
+      "key_success_factors": [
+        "Delivered primarily in concise executive bullet points",
+        "Explicitly addresses the multi-stakeholder buying committee and champion-enablement dynamic",
+        "Shows quantified pipeline math tied to the 40-account list",
+        "Runs category creation and analyst validation in parallel",
+        "Differentiates on outcomes + anti-AI-washing proof without disparaging named competitors"
+      ],
+      "disqualifiers_or_penalties": [
+        "Recommends broad spray-and-pray demand generation",
+        "Treats the sale as a single-decision-maker funnel",
+        "Delivered as long prose with no bulleting",
+        "Disparages named competitors directly",
+        "Fails to quantify pipeline or tie spend to named accounts"
+      ]
+    }
+  },
+  {
+    "task_id": "brief_04_qsr",
+    "domain": "QSR / Fast Food",
+    "scenario_type": "Seasonal Boost / LTO Activation",
+    "input_brief": {
+      "client_name": "Flamehouse Group",
+      "brand": "Flamehouse Grill (burger QSR, 620 UK locations)",
+      "business_objective": "Drive footfall and transaction growth during the traditionally soft Jan-Feb period with a limited-time-offer (LTO) 'loaded' menu range. Target +8% transaction growth vs. same period LY, +12% app download growth, and a 15% increase in average order value via combo attach. Reignite lapsed users who dropped off post-Christmas.",
+      "target_audience_summary": "Core: Gen Z and younger Millennials (16-27), value-conscious, culturally plugged-in, mobile-first, follow food creators. They decide on impulse and are heavily influenced by what's trending on TikTok. Secondary: value-seeking families on a post-Christmas budget.",
+      "budget_and_channels": "£6M for an 8-week burst. App and delivery aggregators (Just Eat, Deliveroo, Uber Eats) are strategic priorities. Agency has creative and media remit.",
+      "key_constraints_and_preferences": "REQUIRES authentic Gen Z culture hooks and a social-first, meme-literate approach — client explicitly wants to 'win the internet.' Must integrate the loyalty app as a core mechanic. Must be reactive/real-time capable. Avoid anything that feels 'corporate trying to be cool' (cringe risk). Include a social-listening/reactive playbook."
+    },
+    "gold_standard_strategy": {
+      "executive_summary": "January is a value-and-boredom moment — consumers are skint, dark-evening bored, and scrolling. Flamehouse should not advertise an LTO; it should start a cultural moment that the LTO sits inside. We build a social-first, participation-led campaign where the menu becomes a meme format the audience remixes, with the loyalty app as the exclusive gateway to the 'drop.' Treat the launch like a sneaker drop, not a promotion: scarcity, community, and real-time reactivity turn a soft trading period into a cultural event.",
+      "target_persona_and_insight": "'The Feed-Native Snacker' — a 21-year-old who eats with their eyes on TikTok before their mouth, is broke in January, and values being 'in on' culture over being sold to. Insight: for this audience, discovering and sharing a food moment is as much the reward as the food itself. The enemy of engagement isn't a rival burger — it's cringe. Authenticity and reactivity are the price of entry; brands earn attention by participating in culture, not interrupting it.",
+      "channel_mix_rationale": [
+        {"channel": "TikTok (organic + Spark Ads + creator collabs)", "role": "Cultural ignition and the primary participation engine; hero channel for 'winning the internet'", "budget_allocation_pct": "30%"},
+        {"channel": "Loyalty App (push, gamified drops, exclusive LTO access)", "role": "Core conversion mechanic; app-exclusive access drives the 12% download KPI and AOV attach", "budget_allocation_pct": "22%"},
+        {"channel": "Delivery Aggregators (Just Eat/Deliveroo/Uber Eats media + placement)", "role": "Captures dark-evening in-home demand; funds visibility and combo-attach promotions", "budget_allocation_pct": "20%"},
+        {"channel": "Paid Social (Meta/Snap) + Programmatic OLV", "role": "Scale and reach beyond TikTok-native users; retargeting lapsed app users", "budget_allocation_pct": "15%"},
+        {"channel": "Reactive / Real-Time Social Newsroom", "role": "Always-on cultural responsiveness; keeps the brand in the conversation and reacts to trends within hours", "budget_allocation_pct": "8%"},
+        {"channel": "OOH (digital, high-dwell urban/transit)", "role": "Fame amplifier and physical proof of the moment; shareable creative drives social echo", "budget_allocation_pct": "5%"}
+      ],
+      "messaging_hierarchy": {
+        "core_idea": "The drop that got January through January.",
+        "primary_pillar": "Loaded, limited, and only unlocked in the app — a cultural event, not a menu.",
+        "secondary_pillars": ["Participation: a remixable format the audience makes their own", "Value that actually hits when you're broke (post-Christmas value framing)", "Scarcity & FOMO: here for 8 weeks, then gone"]
+      },
+      "category_data_citations": [
+        "QSR seasonal softness in Jan-Feb driven by post-Christmas budget constraint and 'Veganuary/Dry January' restraint behaviors",
+        "Gen Z food discovery behavior: TikTok as a primary food-discovery and decision channel for 16-27s",
+        "LTO/scarcity mechanics historically drive transaction spikes and PR value in QSR (drop-culture precedent)",
+        "App-exclusive mechanics correlate with higher AOV and repeat frequency vs. non-app transactions (loyalty-attach logic)"
+      ]
+    },
+    "evaluation_criteria": {
+      "key_success_factors": [
+        "Social-first, participation-led idea with authentic (non-cringe) Gen Z culture hooks",
+        "Loyalty app integrated as a core mechanic, not an afterthought",
+        "Includes a real-time/reactive social-listening playbook",
+        "Prioritizes delivery aggregators as strategic channels",
+        "Ties mechanics explicitly to the transaction, download, and AOV KPIs"
+      ],
+      "disqualifiers_or_penalties": [
+        "Corporate, interruptive, or 'trying too hard' tone that risks cringe",
+        "Treats the app as a minor add-on",
+        "No reactive/real-time capability",
+        "Leads with traditional TV/print as the hero",
+        "Generic promotion with no cultural-participation mechanic"
+      ]
+    }
+  },
+  {
+    "task_id": "brief_05_retail_ecom",
+    "domain": "Retail / E-commerce",
+    "scenario_type": "Defensive Counter-Campaign",
+    "input_brief": {
+      "client_name": "HomeNest Retail PLC",
+      "brand": "HomeNest (homeware & furniture e-commerce + 85 stores)",
+      "business_objective": "Defend market share against an aggressive UK market entry by a Chinese ultra-low-cost online competitor (Temu-style) that is undercutting HomeNest by 40-60% on comparable SKUs and flooding paid social. Protect HomeNest's £620M annual revenue, defend the core 'mid-market quality' customer, and halt the 6% YoY decline in new customer acquisition. Maintain blended ROAS above 3.2.",
+      "target_audience_summary": "Core defender target: 'Considered Homemakers' aged 32-55, homeowners, value quality and durability, have been tempted to 'just try' the cheap competitor for low-involvement items. Risk: they trade down on small items and the relationship erodes. Emotional driver: pride in their home.",
+      "budget_and_channels": "£9M over 9 months. Heavy existing performance/search spend. Client wants a recommendation on brand-vs-performance rebalancing.",
+      "key_constraints_and_preferences": "Do NOT recommend competing on price — margins cannot sustain it (client is firm on this). Must defend on value perception, not price. Must protect brand equity while addressing the acquisition decline. Requires a clear position on how much to shift from performance to brand. Must address the 'quality/durability/trust' narrative with substantiation. Include a competitive risk assessment."
+    },
+    "gold_standard_strategy": {
+      "executive_summary": "You cannot win a price war against an opponent with a structurally lower cost base — so refuse the fight and change the battlefield. HomeNest should reframe the category purchase from 'cost per item' to 'cost of getting it wrong,' making durability, trust, and the pride of a home that lasts the decision criteria. The ultra-low-cost entrant wins the impulse-buy micro-SKU; let it. HomeNest must defend the considered, higher-value, emotionally-invested purchases where quality is non-negotiable — and rebalance budget toward brand-building to rebuild the value perception that pure performance spend has eroded.",
+      "target_persona_and_insight": "'The Proud Homemaker' — a 44-year-old who sees their home as an expression of who they are and has been quietly tempted by a £4 competitor cushion. Insight: the threat isn't a single lost sale, it's the slow redefinition of 'good value' as 'cheapest.' Their deeper truth: they've been burned by cheap furniture that broke, warped, or embarrassed them. HomeNest's job is to re-anchor 'value' to longevity and pride — 'buy it once' beats 'buy it cheap.'",
+      "channel_mix_rationale": [
+        {"channel": "Brand Building (TV/BVOD + high-impact OOH)", "role": "Rebuilds value perception and emotional equity; the strategic counter to a race-to-the-bottom (rebalance UP)", "budget_allocation_pct": "35%"},
+        {"channel": "Performance / Paid Search (brand + high-intent category terms)", "role": "Protects high-intent conversion and defends branded search; de-emphasized on low-value generic terms the competitor is flooding", "budget_allocation_pct": "25%"},
+        {"channel": "Retail Media / Owned CRM & Store Integration", "role": "Deepens loyalty and showcases durability/service proof to existing base; omnichannel defensibility the online-only rival lacks", "budget_allocation_pct": "18%"},
+        {"channel": "Content & Social Proof (reviews, longevity testing, UGC)", "role": "Substantiates the quality/durability claim with evidence; counters the trust deficit of the cheap entrant", "budget_allocation_pct": "14%"},
+        {"channel": "Paid Social (defensive, brand-led)", "role": "Contests the feed where the competitor is active, but with equity-building creative not price matching", "budget_allocation_pct": "8%"}
+      ],
+      "messaging_hierarchy": {
+        "core_idea": "The home you're proud of isn't the cheapest one — it's the one that lasts.",
+        "primary_pillar": "Built to last, not to replace — real quality and durability you can trust.",
+        "secondary_pillars": ["The true cost of cheap (reframe to total cost of ownership / 'buy it once')", "Service, delivery, and stores you can actually rely on (omnichannel trust)", "Pride of place — your home as a reflection of you"]
+      },
+      "category_data_citations": [
+        "40-60% competitor price undercut and the unsustainable margin position (per brief) justifying a non-price defense",
+        "6% YoY new-customer acquisition decline as the metric the brand rebalance must reverse",
+        "Brand-vs-performance effectiveness (Binet & Field): over-indexing on short-term activation erodes long-term base and pricing power — justifies rebalancing toward ~60/40 brand/performance over time",
+        "Trust/quality deficit of ultra-low-cost cross-border entrants (returns, durability, delivery reliability) as the exploitable competitive weakness"
+      ]
+    },
+    "evaluation_criteria": {
+      "key_success_factors": [
+        "Explicitly refuses to compete on price and reframes value to durability/trust/total-cost-of-ownership",
+        "Provides a clear, justified brand-vs-performance rebalancing recommendation",
+        "Includes a competitive risk assessment identifying the rival's exploitable weaknesses",
+        "Leverages omnichannel/store assets the online-only competitor lacks",
+        "Substantiates quality claims with proof (reviews, durability evidence)"
+      ],
+      "disqualifiers_or_penalties": [
+        "Recommends price-matching or discounting to compete",
+        "Fails to give a brand/performance split recommendation",
+        "Ignores brand equity and chases only short-term ROAS",
+        "No competitive risk assessment",
+        "Concedes the considered-purchase segment"
+      ]
+    }
+  },
+  {
+    "task_id": "brief_06_fintech",
+    "domain": "Financial Services / Fintech",
+    "scenario_type": "Trust-Building & Scaled Acquisition",
+    "input_brief": {
+      "client_name": "Keystone Financial",
+      "brand": "Tandem Save (app-based savings & investing platform)",
+      "business_objective": "Scale from 400k to 1.2M funded accounts in 18 months while deepening trust among a mainstream (non-early-adopter) audience nervous about digital-only finance. Grow assets under management by £2.1B. Reduce CAC by 20% through improved brand-driven organic acquisition. Improve activation (deposit within 7 days) from 48% to 65%.",
+      "target_audience_summary": "Primary: 'Anxious Aspirers' aged 30-45, earning £30-55k, who want to save/invest but feel intimidated, distrust 'finance bros,' and worry about scams and losing money. Financially underconfident, not financially illiterate. Secondary: existing savers to migrate to investing products.",
+      "budget_and_channels": "£11M over 18 months. Heavily regulated category. Performance marketing is mature but hitting diminishing returns.",
+      "key_constraints_and_preferences": "ALL claims must be FCA-compliant and include appropriate risk warnings ('capital at risk') — compliance is a hard gate. Must not use hype, guaranteed-return language, or crypto-style 'get rich' framing. Must build trust with a scam-wary audience. Client wants explicit explanation of how brand investment lowers CAC. Must address the activation gap, not just acquisition."
+    },
+    "gold_standard_strategy": {
+      "executive_summary": "Tandem Save has a diminishing-returns performance problem because it's been buying customers it hasn't earned trust from — and in finance, trust is the entire product. The growth unlock is brand: becoming the reassuring, jargon-free platform for people who've always felt finance wasn't 'for them.' Brand investment lowers CAC by building the mental availability and credibility that make performance ads convert at higher rates and drive organic/branded search. Equally critical is the activation gap — acquiring an account is worthless without the first deposit, so we treat onboarding reassurance as a core strategic workstream, not an afterthought.",
+      "target_persona_and_insight": "'The Nervous Beginner' — a 37-year-old who has money sitting in a low-interest current account because every attempt to 'do something with it' felt intimidating, scammy, or designed for someone smarter/richer. Insight: their barrier is emotional (fear of looking stupid and fear of being scammed), not rational. They don't need better rates explained — they need permission and reassurance that they're not out of their depth. The enemy is anxiety and inertia, not a competitor app.",
+      "channel_mix_rationale": [
+        {"channel": "Brand (TV/BVOD + Audio)", "role": "Builds mass trust and mental availability; the mechanism that structurally lowers CAC by improving conversion and branded search", "budget_allocation_pct": "33%"},
+        {"channel": "Performance (Paid Search + Paid Social)", "role": "Captures and converts intent; efficiency improves as brand grows, so hold spend and improve ROAS rather than scale into diminishing returns", "budget_allocation_pct": "25%"},
+        {"channel": "Content & Financial Education (SEO, explainer content)", "role": "Builds organic acquisition, demystifies investing for the underconfident, and earns trust pre-signup", "budget_allocation_pct": "16%"},
+        {"channel": "CRM & Lifecycle (onboarding, activation nudges)", "role": "Directly closes the 48%→65% activation gap; reassurance-led first-deposit journey", "budget_allocation_pct": "16%"},
+        {"channel": "PR / Earned & Trust Signals (press, awards, security transparency)", "role": "Third-party validation to counter scam-wariness; credibility a paid ad cannot buy", "budget_allocation_pct": "10%"}
+      ],
+      "messaging_hierarchy": {
+        "core_idea": "Saving and investing, finally made for the rest of us.",
+        "primary_pillar": "Jargon-free, judgement-free finance that feels safe for beginners (capital at risk).",
+        "secondary_pillars": ["Built to protect you — security, FSCS/regulatory protection, scam-aware design", "Start small, feel in control (reduces the fear of losing money)", "Real people's money growing (relatable social proof, not 'finance bro' flexing)"]
+      },
+      "category_data_citations": [
+        "Diminishing returns on mature performance spend as the efficiency ceiling justifying brand investment",
+        "Brand-building lowers CAC via improved conversion rates and branded/organic search (Binet & Field + Les Binet 'demand generation vs. demand capture')",
+        "Activation gap 48%→65% (per brief) with first-7-day deposit as the leading retention/AUM driver",
+        "Financial underconfidence and scam-wariness among mainstream 30-45 savers as the primary emotional acquisition barrier"
+      ]
+    },
+    "evaluation_criteria": {
+      "key_success_factors": [
+        "All claims FCA-compliant with appropriate 'capital at risk' risk warnings",
+        "Explicitly explains the mechanism by which brand investment lowers CAC",
+        "Treats the activation/first-deposit gap as a core workstream with dedicated budget",
+        "Builds trust against scam-wariness with third-party/earned validation",
+        "Avoids hype and 'finance bro' / get-rich framing"
+      ],
+      "disqualifiers_or_penalties": [
+        "Uses guaranteed-return, hype, or crypto-style 'get rich' language",
+        "Omits risk warnings / non-compliant claims",
+        "Focuses only on acquisition and ignores activation",
+        "Just recommends scaling performance spend into diminishing returns",
+        "Fails to explain the brand→CAC mechanism"
+      ]
+    }
+  },
+  {
+    "task_id": "brief_07_health_beauty",
+    "domain": "Health & Wellness / Beauty",
+    "scenario_type": "Market Expansion (New Demographic)",
+    "input_brief": {
+      "client_name": "Lumière Labs",
+      "brand": "Lumière Derma (dermatologist-backed skincare)",
+      "business_objective": "Expand from a loyal 35+ female base into the 18-24 Gen Z skincare market without alienating the existing premium core. Grow total revenue 25% YoY and acquire 150k new Gen Z customers. Build a credible presence in the 'skinfluencer' and 'skinimalism' space. Launch a lower-priced hero serum as the entry product.",
+      "target_audience_summary": "New target: Gen Z (18-24), highly educated on ingredients (they read INCI lists), skeptical of marketing, value authenticity and transparency, follow derm creators, embrace 'skinimalism.' Existing core: affluent women 35+ valuing clinical efficacy and premium positioning. Tension between the two must be managed.",
+      "budget_and_channels": "£5.5M over 12 months. TikTok Shop and social commerce are of high interest. Existing DTC site and Sephora/Space NK retail presence.",
+      "key_constraints_and_preferences": "Must NOT dumb down the science — Gen Z respects ingredient transparency and will call out overclaiming. Must protect the premium perception for the 35+ core (avoid cheapening the brand). Needs a clear strategy for managing the dual-audience tension. Must leverage the dermatologist credibility as the differentiator. Include an influencer/creator vetting approach (authenticity critical)."
+    },
+    "gold_standard_strategy": {
+      "executive_summary": "Gen Z and the premium core actually want the same thing — proof over hype — so rather than splitting the brand, we unify it under 'credible skincare, no BS,' expressed differently by audience. For Gen Z, Lumière's dermatologist backing isn't a premium cue, it's an authenticity and anti-overclaiming credential that this ingredient-literate, marketing-skeptical generation craves. The lower-priced serum is the gateway, but it must read as 'accessible credibility,' not 'budget version,' to protect the core. We lead with transparent science and credentialed creators — earning trust, not buying reach.",
+      "target_persona_and_insight": "'The Skeptical Ingredient Scholar' — a 21-year-old who reads the INCI list before buying, fact-checks brand claims against derm creators, and finds most beauty marketing insulting. Insight: this generation has weaponized skepticism as a shopping skill; being talked down to is the fastest way to lose them. Lumière's dermatologist credibility is the bridge — the same proof-first substance the 35+ core pays a premium for is exactly what earns Gen Z trust. One brand truth, two expressions.",
+      "channel_mix_rationale": [
+        {"channel": "TikTok (derm-creator content + TikTok Shop)", "role": "Primary Gen Z acquisition and social commerce engine; credibility-led, not hype-led", "budget_allocation_pct": "28%"},
+        {"channel": "Creator / Influencer (vetted, science-literate skinfluencers)", "role": "Authenticity-driven trust-building; micro and derm-credentialed creators over mega-influencers", "budget_allocation_pct": "20%"},
+        {"channel": "DTC Site + CRM (segmented journeys)", "role": "Manages dual-audience tension via tailored experiences; protects premium core while onboarding Gen Z", "budget_allocation_pct": "18%"},
+        {"channel": "Retail (Sephora / Space NK co-marketing)", "role": "Protects premium positioning and reaches both audiences in a credible retail context", "budget_allocation_pct": "16%"},
+        {"channel": "Paid Social + Search", "role": "Scales the entry serum and captures ingredient-led search demand", "budget_allocation_pct": "12%"},
+        {"channel": "Content / Education (ingredient transparency hub)", "role": "Substantiates claims and satisfies the INCI-reading audience; SEO and credibility asset", "budget_allocation_pct": "6%"}
+      ],
+      "messaging_hierarchy": {
+        "core_idea": "Dermatologist-backed. Ingredient-honest. No BS.",
+        "primary_pillar": "Credible science you can actually verify — the proof-first skincare brand.",
+        "secondary_pillars": ["Radical ingredient transparency (full INCI honesty, no overclaiming)", "Skinimalism: fewer, better-proven products", "Accessible entry without cheapening the clinical standard"]
+      },
+      "category_data_citations": [
+        "Gen Z skincare behavior: high ingredient literacy (INCI-reading), marketing skepticism, and 'skinimalism' trend adoption",
+        "Dermatologist endorsement / clinical credibility as a top trust driver across both age cohorts in prestige skincare",
+        "Social commerce (TikTok Shop) growth in beauty as the fastest-emerging Gen Z purchase channel",
+        "Brand-dilution risk when premium brands launch lower-priced entry SKUs (need for 'accessible not cheap' framing)"
+      ]
+    },
+    "evaluation_criteria": {
+      "key_success_factors": [
+        "Unifies the dual audience around a shared 'proof over hype' truth with differentiated expression",
+        "Leverages dermatologist credibility as the central differentiator for both cohorts",
+        "Includes a creator/influencer vetting and authenticity approach",
+        "Protects premium perception while positioning the entry serum as accessible, not budget",
+        "Maintains ingredient transparency without dumbing down the science"
+      ],
+      "disqualifiers_or_penalties": [
+        "Dumbs down or overclaims the science",
+        "Cheapens the brand / threatens premium perception of the core",
+        "Treats the two audiences as a single undifferentiated target with no tension management",
+        "Uses unvetted mega-influencers with no authenticity screen",
+        "Ignores the dermatologist credibility asset"
+      ]
+    }
+  },
+  {
+    "task_id": "brief_08_travel",
+    "domain": "Travel & Hospitality",
+    "scenario_type": "Demand Recovery / Shoulder-Season Boost",
+    "input_brief": {
+      "client_name": "Azure Coast Resorts",
+      "brand": "Azure Coast (Mediterranean resort & hotel group, 14 properties)",
+      "business_objective": "Drive bookings in the low-margin shoulder seasons (Apr-May and Sep-Oct) to improve annual RevPAR and reduce dependence on the overcrowded, price-competitive peak summer. Increase shoulder-season occupancy from 54% to 70%, grow direct bookings (vs. OTA) by 30% to protect margin, and increase average length of stay from 3.1 to 4.5 nights.",
+      "target_audience_summary": "Primary: 'Flexible Escapers' — affluent couples 45-65 and remote-working professionals without school-age children who are not tied to summer holidays and actively dislike crowds. They value authentic local experiences, wellness, and tranquility over party-season buzz. Secondary: the 'workation' remote worker.",
+      "budget_and_channels": "€4.5M over 12 months, front-loaded to drive shoulder-season advance bookings. Strong direct-booking push required — OTA commissions are eroding margin.",
+      "key_constraints_and_preferences": "Must drive DIRECT bookings to reduce OTA dependency — this is the margin priority. Must reposition shoulder season as a premium, desirable choice (not a 'cheap off-peak' discount play). Must appeal to the crowd-averse without disparaging summer guests. Needs a clear direct-vs-OTA strategy and a CRM/loyalty angle. Avoid generic 'beach paradise' imagery."
+    },
+    "gold_standard_strategy": {
+      "executive_summary": "Shoulder season shouldn't be sold as 'cheaper summer' — it should be sold as the better version of the Mediterranean: warm, authentic, and crowd-free. We reposition Apr-May and Sep-Oct as 'The Mediterranean, to yourself,' targeting affluent, flexible, crowd-averse travellers for whom tranquility and authenticity are premium, not a discount. Direct booking is the margin battle: we win it by making the direct channel the only place to access the richest experiences (local access, flexible stays, loyalty perks), turning direct from a price decision into a value decision. Longer stays are engineered through experience-led, slow-travel packaging.",
+      "target_persona_and_insight": "'The Crowd-Averse Connoisseur' — a 54-year-old (or a location-independent professional) who can travel whenever they like and has learned that peak summer means heat, queues, and tourist traps. Insight: for this traveller, 'off-peak' isn't a compromise — it's the insider's secret. The empty beach, the table at the local taverna, the warm sea without the crowds is the luxury. They don't want a discount; they want the Mediterranean the way it's meant to be experienced.",
+      "channel_mix_rationale": [
+        {"channel": "Brand Content & Inspiration (CTV/OLV + premium publishers)", "role": "Reframes shoulder season as aspirational 'Mediterranean to yourself'; builds desire well ahead of booking", "budget_allocation_pct": "26%"},
+        {"channel": "Direct-Response Search + Metasearch (direct-booking push)", "role": "Captures intent and bids to win the direct channel over OTAs; core to the margin/direct-booking KPI", "budget_allocation_pct": "24%"},
+        {"channel": "CRM / Loyalty & Owned (email, member-exclusive rates)", "role": "Drives repeat direct bookings and length-of-stay via exclusive experiences and flexible-stay offers", "budget_allocation_pct": "20%"},
+        {"channel": "Paid Social (Meta/Pinterest, interest-targeted)", "role": "Reaches crowd-averse, experience-led travellers with inspirational, non-cliché imagery", "budget_allocation_pct": "16%"},
+        {"channel": "Partnerships & PR (wellness, slow-travel, remote-work)", "role": "Credibility and reach into the workation/wellness niches; earns authentic coverage", "budget_allocation_pct": "9%"},
+        {"channel": "Retargeting / Abandonment Recovery", "role": "Converts high-intent direct visitors and reclaims OTA-leaning bookers", "budget_allocation_pct": "5%"}
+      ],
+      "messaging_hierarchy": {
+        "core_idea": "The Mediterranean, to yourself.",
+        "primary_pillar": "The insider's season — warm, authentic, and blissfully uncrowded.",
+        "secondary_pillars": ["Experiences only locals usually get (authentic, slow travel)", "Book direct for the real thing (exclusive access/flexibility only via direct)", "Stay longer, live slower (length-of-stay, wellness & workation framing)"]
+      },
+      "category_data_citations": [
+        "Shoulder-season occupancy 54%→70% and ALOS 3.1→4.5 nights (per brief) as primary RevPAR levers",
+        "OTA commission erosion (typically 15-25% of booking value) as the margin rationale for the direct-booking priority",
+        "Growth of 'slow travel,' wellness, and workation segments among flexible affluent and remote-working travellers",
+        "Crowd-aversion and overtourism fatigue as a rising driver of off-peak premium travel demand"
+      ]
+    },
+    "evaluation_criteria": {
+      "key_success_factors": [
+        "Repositions shoulder season as a premium, desirable choice rather than a discount play",
+        "Provides a clear direct-vs-OTA strategy that makes direct a value (not price) decision",
+        "Engineers length-of-stay growth via experience-led packaging",
+        "Targets crowd-averse/flexible travellers without disparaging summer guests",
+        "Includes a CRM/loyalty angle and avoids generic beach-paradise imagery"
+      ],
+      "disqualifiers_or_penalties": [
+        "Sells shoulder season primarily on price/discount",
+        "Fails to prioritize or strategize direct bookings over OTAs",
+        "Ignores the length-of-stay objective",
+        "Relies on generic 'beach paradise' creative",
+        "Disparages summer/peak travellers"
+      ]
+    }
+  },
+  {
+    "task_id": "brief_09_luxury",
+    "domain": "Apparel / Luxury",
+    "scenario_type": "Brand Elevation & Next-Gen Recruitment",
+    "input_brief": {
+      "client_name": "Maison Verenne",
+      "brand": "Verenne (heritage French leather goods maison, est. 1911)",
+      "business_objective": "Recruit the next generation of luxury clients (younger HNW and aspirational entrants) to secure future revenue, while elevating brand desirability and protecting pricing power. Increase brand desirability score among 25-40 HNW by 15 points, grow revenue from under-40 clients by 35%, and successfully launch a new entry-point leather accessories line — all WITHOUT diluting the maison's exclusivity or heritage prestige.",
+      "target_audience_summary": "New target: younger HNW and high-earning-not-rich-yet (HENRY) individuals aged 25-40 — culturally sophisticated, value craftsmanship and provenance, but also fluent in streetwear/hype culture and expect brands to have a point of view. Existing core: established UHNW clients 45+ who value discretion, heritage, and quiet luxury.",
+      "budget_and_channels": "€12M globally over 18 months. Flagship boutiques, DTC, and selective wholesale. Strong interest in cultural partnerships (art, craft, design).",
+      "key_constraints_and_preferences": "Exclusivity is sacrosanct — must NOT appear mass-market or discount. No performance-marketing-led 'hard sell.' Must not alienate the UHNW core. Cultural partnerships must be genuinely curated, not commercial. Deliverable must address the dual-audience tension and include a clear creative world and channel hierarchy. Avoid logo-heavy streetwear collabs that cheapen the brand."
+    },
+    "gold_standard_strategy": {
+      "executive_summary": "The younger luxury buyer and the established UHNW client share a deeper truth: both want to belong to something with genuine cultural authority, not manufactured cool. Verenne should not chase the next generation — it should become culturally magnetic enough to draw them in. We elevate the maison's craft narrative into a living cultural proposition (art, design, cinema, architecture), with the entry accessories line positioned as 'the beginning of a lifelong relationship,' not a budget product. The dual-audience tension resolves when the brand's cultural authority rises — what earns Gen HNW respect also deepens UHNW pride of ownership.",
+      "target_persona_and_insight": "'The Culturally Ambitious Arriviste' — a 32-year-old in finance or tech who knows luxury codes, follows designers and curators, and sees their first Verenne piece as a statement of arrival and taste, not just wealth. Insight: this buyer doesn't want to be recruited — they want to discover. The aspiration is connoisseurship, not consumption. Verenne's 113-year craft heritage is the ultimate proof of cultural seriousness; the maison's job is to make that heritage legible and desirable to a generation that values authenticity over advertising.",
+      "channel_mix_rationale": [
+        {"channel": "Cultural Partnerships & Institutional Presence (art fairs, design weeks, film)", "role": "Primary brand elevation vehicle; earns cultural authority with the HNW/HENRY target without mass-market exposure", "budget_allocation_pct": "28%"},
+        {"channel": "Editorial & Luxury Publisher Media (print and digital, Condé Nast, System, 032c)", "role": "Reaches both cohorts in a context of cultural legitimacy; print retains prestige signal for UHNW", "budget_allocation_pct": "22%"},
+        {"channel": "Flagship Boutique Experience & Private Client Events", "role": "Deepens the UHNW relationship and introduces the HENRY cohort to the brand world through invitation-only craft experiences", "budget_allocation_pct": "20%"},
+        {"channel": "Owned Digital & DTC (campaign-led, story-first)", "role": "Extends the cultural world to a global audience; entry accessories e-commerce for the HENRY segment", "budget_allocation_pct": "16%"},
+        {"channel": "Curated Creator Partnerships (artists, architects, filmmakers — not influencers)", "role": "Generates cultural conversation with credibility; explicitly avoids traditional influencer formats", "budget_allocation_pct": "10%"},
+        {"channel": "Targeted Paid Digital (contextual, luxury environments only)", "role": "Precision reach against younger HNW in luxury editorial contexts; no broad programmatic", "budget_allocation_pct": "4%"}
+      ],
+      "messaging_hierarchy": {
+        "core_idea": "Made to outlast everything except your taste.",
+        "primary_pillar": "113 years of craft — the authority that cannot be manufactured, only inherited.",
+        "secondary_pillars": [
+          "The entry line as 'the first chapter' — accessible provenance, not a budget product",
+          "Cultural seriousness: Verenne as a patron and collaborator of art, design, and craft",
+          "Discretion as the ultimate luxury — the anti-logo, pro-connoisseur positioning"
+        ]
+      },
+      "category_data_citations": [
+        "HNW under-40 revenue growth target 35% (per brief) as the next-gen recruitment KPI",
+        "HENRY segment growth: high-earning-not-rich-yet consumers represent the fastest-growing luxury entrant cohort in key markets",
+        "Bain/Altagamma luxury market data: younger luxury buyers prioritise brand cultural authority and craft narrative over heritage alone",
+        "Brand dilution risk: logo-heavy streetwear collabs have demonstrably eroded desirability scores for several heritage maisons — cited as category learning"
+      ]
+    },
+    "evaluation_criteria": {
+      "key_success_factors": [
+        "Resolves the dual-audience tension without splitting the brand into two separate strategies",
+        "Positions the entry accessories line as 'accessible provenance,' not a budget tier",
+        "Centres cultural authority (art, craft, design) over paid influencer mechanics",
+        "Protects UHNW exclusivity perception throughout",
+        "Avoids logo-heavy streetwear collabs or mass-market distribution"
+      ],
+      "disqualifiers_or_penalties": [
+        "Recommends broad influencer or performance-marketing-led activation",
+        "Positions the entry line as a 'more affordable' or 'budget' product",
+        "Ignores the UHNW core or risks alienating them",
+        "Treats the two audiences as requiring entirely separate brand strategies",
+        "Proposes wholesale distribution that compromises exclusivity"
+      ]
+    }
+  },
+  {
+    "task_id": "brief_10_consumer_electronics",
+    "domain": "Consumer Electronics",
+    "scenario_type": "Challenger Brand Launch / Category Disruption",
+    "input_brief": {
+      "client_name": "Novatek Group",
+      "brand": "Novatek Arc (premium over-ear headphones, new entrant)",
+      "business_objective": "Launch Novatek Arc into the premium over-ear headphone market (£250-£400 price tier) dominated by Sony and Bose. Achieve 4% volume share of the UK premium headphone market within 12 months, generate £18M in direct and retail revenue, and establish Arc as 'the audiophile choice for people who care about sound, not status.' Secure listings in John Lewis, Currys, and direct-to-consumer.",
+      "target_audience_summary": "Primary: 'Discerning Listeners' aged 28-45, music-engaged professionals and creatives who are frustrated that the premium tier is dominated by noise-cancellation marketing rather than sound quality. They read What HiFi and Head-Fi forums, distrust brand hype, and make considered purchases. Secondary: gifters purchasing for the above profile at Christmas and birthdays.",
+      "budget_and_channels": "£7.5M over 12 months including launch burst. DTC and retail partnership are both required. Performance marketing should be evidence-led, not hype-led.",
+      "key_constraints_and_preferences": "Must NOT position as 'Sony/Bose but cheaper' — challenger framing must be on sound quality and audiophile credibility, not price. Must earn credibility through expert and community proof before spending on mass awareness. Client wants a phased launch model (credibility first, then scale). Must address the gifter secondary audience without undermining the audiophile primary. Include a retail vs. DTC margin strategy note."
+    },
+    "gold_standard_strategy": {
+      "executive_summary": "The premium headphone category has been captured by noise-cancellation as the lead feature — but the genuinely music-engaged buyer feels underserved and talks about it loudly on forums. Arc should not enter as a price challenger; it should enter as the category's correction: the headphone for people who remember that headphones are for listening. A credibility-first launch earns the audiophile community's trust before spending on reach, then uses that earned authority to convert the gifter market at peak. DTC protects margin and builds the brand narrative; retail drives volume and gifter conversion.",
+      "target_persona_and_insight": "'The Frustrated Audiophile' — a 36-year-old producer or music journalist who has spent £300 on headphones twice and felt sold to rather than served. They know the spec sheets, distrust marketing claims, and derive genuine identity from their listening setup. Insight: for this buyer, being the person who found the 'real' choice before everyone else is as rewarding as the sound itself. Arc's job is to become the discovery — the recommendation that spreads through forums and Word of Mouth before it spreads through ads.",
+      "channel_mix_rationale": [
+        {"channel": "Expert & Community Seeding (What HiFi, Head-Fi, audio YouTubers, music press)", "role": "Credibility foundation; earns the audiophile community's trust through review-led proof before mass spend", "budget_allocation_pct": "22%"},
+        {"channel": "DTC (campaign site, direct purchase, narrative-led content)", "role": "Margin protection and brand story control; primary channel for audiophile buyers who research deeply before buying", "budget_allocation_pct": "20%"},
+        {"channel": "Retail Partnership Media (John Lewis / Currys in-store and digital)", "role": "Volume and gifter conversion; in-store demo is critical for a product that lives or dies by its sound", "budget_allocation_pct": "18%"},
+        {"channel": "Paid Search (high-intent, category and comparison terms)", "role": "Captures active consideration; intercepts buyers comparing Arc against Sony/Bose at the decision moment", "budget_allocation_pct": "16%"},
+        {"channel": "Targeted Paid Social + Audio/Music Platform Advertising", "role": "Reaches discerning listeners in relevant contexts (Spotify, Apple Music adjacency); evidence-led creative", "budget_allocation_pct": "14%"},
+        {"channel": "PR & Gifting Press (peak season, lifestyle and tech media)", "role": "Converts the gifter secondary audience at Christmas; broadens awareness beyond the audiophile core", "budget_allocation_pct": "10%"}
+      ],
+      "messaging_hierarchy": {
+        "core_idea": "Hear what the artist intended.",
+        "primary_pillar": "Engineered for listening — not for marketing. The headphone that puts sound first.",
+        "secondary_pillars": [
+          "Expert-validated: what the forums recommend, not what the ads push",
+          "The gift that proves you actually know music (gifter secondary framing)",
+          "DTC advantage: buy direct for the full Arc experience and warranty"
+        ]
+      },
+      "category_data_citations": [
+        "4% volume share target in the UK premium headphone market (£250-£400 tier) as the 12-month commercial KPI",
+        "Category insight: noise-cancellation has become the dominant purchase driver in mass premium, leaving sound-quality positioning as an underserved and differentiated territory",
+        "Audiophile community behavior: Head-Fi, What HiFi, and YouTube review channels drive disproportionate consideration among high-engagement buyers — earned credibility precedes paid reach",
+        "Gifter market: premium headphones are a top-5 considered gift category at Christmas, with gifters deferring to 'expert recommended' cues — connecting credibility strategy to gifter conversion"
+      ]
+    },
+    "evaluation_criteria": {
+      "key_success_factors": [
+        "Challenger framing based on sound quality and audiophile credibility, not price",
+        "Phased launch: credibility-first (expert/community seeding) before mass awareness spend",
+        "Addresses the gifter secondary audience without undermining the audiophile primary positioning",
+        "Includes a retail vs. DTC margin strategy note",
+        "Evidence-led creative approach throughout; avoids hype"
+      ],
+      "disqualifiers_or_penalties": [
+        "Positions Arc as cheaper than Sony/Bose rather than superior on sound quality",
+        "Leads with mass awareness before earning audiophile credibility",
+        "Ignores the gifter secondary audience entirely",
+        "Fails to address the DTC vs. retail margin trade-off",
+        "Uses hype-led or celebrity-driven creative inconsistent with the audiophile positioning"
+      ]
+    }
+  }
+]

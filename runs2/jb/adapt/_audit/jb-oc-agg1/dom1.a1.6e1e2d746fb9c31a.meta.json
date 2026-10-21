@@ -1,0 +1,11 @@
+{
+  "label": "dom1.a1",
+  "ok": true,
+  "channel": "opencode",
+  "model": "google-vertex/gemini-2.5-flash",
+  "effort": "high",
+  "attempts": 1,
+  "wall_s": 1338.8,
+  "cost_usd": 0.121414,
+  "error": ""
+}

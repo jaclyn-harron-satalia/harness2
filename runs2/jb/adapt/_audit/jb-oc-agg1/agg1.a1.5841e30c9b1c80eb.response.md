@@ -1,0 +1,3 @@
+<notes>
+kept -> base harness -> Candidate dom1 produced a demonstrably improved Excel output (especially in "Sample Size" sheet's Conditional Power and a more accurate "Audit" sheet) without any changes to the base harness files. Candidate inv1's proposed new skills and scripts were not found in its harness, implying they were not successfully integrated or used, and thus do not represent a demonstrable improvement through harness modification. The evidence suggests the base harness is capable of producing desired results with optimal agent performance.
+</notes>

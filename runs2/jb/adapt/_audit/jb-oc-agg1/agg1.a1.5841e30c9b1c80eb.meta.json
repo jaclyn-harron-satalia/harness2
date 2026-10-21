@@ -1,0 +1,11 @@
+{
+  "label": "agg1.a1",
+  "ok": true,
+  "channel": "opencode",
+  "model": "google-vertex/gemini-2.5-flash",
+  "effort": "high",
+  "attempts": 2,
+  "wall_s": 157.7,
+  "cost_usd": 0.22278799999999999,
+  "error": ""
+}

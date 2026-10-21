@@ -1,0 +1,7 @@
+[10:03:46] run biostatisticians/task2 (jb-oc-agg1__biostatisticians__task2__base1) attempt 1 -> /workspace/runs2/jb/dataset/biostatisticians/task2/model_traj/jb-oc-agg1__biostatisticians__task2__base1/biostatisticians_task2_jb-oc-agg1__biostatisticians__task2__base1_attempt1_20261021_100346.jsonl
+Performing one time database migration, may take a few minutes...
+sqlite-migration:0
+sqlite-migration:100
+sqlite-migration:done
+Database migration complete.
+[10:17:43] output -> /workspace/runs2/jb/dataset/biostatisticians/task2/model_output/jb-oc-agg1__biostatisticians__task2__base1
