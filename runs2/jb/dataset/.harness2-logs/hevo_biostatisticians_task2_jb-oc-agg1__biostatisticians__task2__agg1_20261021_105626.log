@@ -4,3 +4,11 @@ sqlite-migration:0
 sqlite-migration:100
 sqlite-migration:done
 Database migration complete.
+[11:56:44] TIMEOUT biostatisticians/task2 attempt 1
+[11:56:44] run biostatisticians/task2 (jb-oc-agg1__biostatisticians__task2__agg1) attempt 2 -> /workspace/runs2/jb/dataset/biostatisticians/task2/model_traj/jb-oc-agg1__biostatisticians__task2__agg1/biostatisticians_task2_jb-oc-agg1__biostatisticians__task2__agg1_attempt2_20261021_115644.jsonl
+Performing one time database migration, may take a few minutes...
+sqlite-migration:0
+sqlite-migration:100
+sqlite-migration:done
+Database migration complete.
+[12:36:44] output -> /workspace/runs2/jb/dataset/biostatisticians/task2/model_output/jb-oc-agg1__biostatisticians__task2__agg1
