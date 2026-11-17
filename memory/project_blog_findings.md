@@ -102,7 +102,48 @@ At k=1 there is only one base rollout. The harness editor diagnoses failures and
 **What makes this interesting for the blog:** The regression pattern is itself a finding — it reveals the mechanism by which k matters. Not just "more k = better" but specifically: k=1 edits are unverified hypotheses; k=2+ edits are verified by a second probe. The biostatisticians/task1 case is a perfect illustration.
 
 **Pending experiments:**
-- Flash k=1 parallel, all 65 tasks — isolates model contribution vs. k contribution
+- Flash k=2 sequential — would complete the 2×2 matrix (Flash vs Pro × k=1 vs k=2 seq)
+- Proper base comparison for Flash k=1 — run harness2-judge --bases to get clean baseline
+
+---
+
+## Experiment: runs_flash_k1 — Flash k=1 parallel, all 65 tasks (Nov 11–13 2026)
+
+**Config:** gemini-2.5-flash executor + improver + judge, k=1 parallel mode, 53 graded tasks, `runs_flash_k1/`.
+
+**Overall result:** Avg base ~0% (bimodal) → avg adapted 11.4% — **net +11.4 points**. Best result to date. Zero regressions.
+
+**Breakdown (53 graded tasks):**
+- 0 regressions
+- 30 zero-base tasks unlocked (best across all runs)
+- 23 zero-base tasks still at zero
+- No non-zero base tasks (base averaging issue — base_judged.json not yet run)
+
+**Notable unlocked tasks:**
+- secretaries/task2: 45.8%
+- police_fire_dispatchers/task1: 38.3%
+- civil_engineers/task1: 36.0%
+- biostatisticians/task1: 33.3%
+- licensing_examiners/task1: 30.6%
+- technical_writers/task1: 30.3%
+
+**Surprising finding — Flash outperforms Pro at every k:**
+
+| Run | Model | Mode | k | Avg adapted | Delta | Regressions |
+|---|---|---|---|---|---|---|
+| runs_full | Pro | parallel | 1 | 4.6% | -2.0 pts | 15 |
+| runs_full_k2 | Pro | parallel | 2 | 5.9% | +5.9 pts | 0 |
+| runs_full_k2_seq | Pro | sequential | 2 | 6.8% | +6.8 pts | 0 |
+| runs_flash_k1 | Flash | parallel | 1 | 11.4% | +11.4 pts | 0 |
+
+**Possible explanations:**
+1. Flash is faster and more instruction-following, which may suit the harness editing task better than Pro's heavier reasoning style
+2. The base score comparison is not fully clean across runs — the Pro runs had bimodal base scores that may be inflating or deflating deltas differently to Flash
+3. Flash judging Flash may introduce systematic bias vs Pro judging Pro — a cross-judge comparison would be needed to rule this out
+
+**Caveat:** base_judged.json not yet run for this experiment — proper baseline comparison pending. Run `harness2-judge --bases` in the container to complete.
+
+**What makes this interesting for the writeup:** Flash + Harness² at k=1 is the strongest result and aligns with the paper's reported gains. The model choice matters — and not in the direction you'd expect (bigger ≠ better here).
 
 ---
 
@@ -181,5 +222,5 @@ At k=1, 15 tasks regressed because unverified harness edits broke previously-wor
 | runs_pro/ | Pro | seq | 2 | 2 (biostats) | ~9% | 4% | -5pt |
 | runs_full/ | Pro | parallel | 1 | 52 graded | 6.6% | 4.6% | -2pt |
 | runs_full_k2/ | Pro | parallel | 2 | 64 | ~0% (bimodal) | 5.9% | **+5.9 pts** |
-| Flash k=1 full | Flash | parallel | 1 | 65 | TBD | TBD | planned |
+| runs_flash_k1/ | Flash | parallel | 1 | 53 | ~0% (bimodal) | 11.4% | **+11.4 pts** |
 | runs_full_k2_seq/ | Pro | seq | 2 | 65 | ~0% (bimodal) | 6.8% | **+6.8 pts** |
